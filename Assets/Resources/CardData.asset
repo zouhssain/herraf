@@ -1,0 +1,763 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46372b6081b941b183905834bc389473, type: 3}
+  m_Name: CardData
+  m_EditorClassIdentifier: 
+  cards:
+  - sprite: {fileID: 21300000, guid: d0c738f4e3d5a56419f122e2653efe3f, type: 3}
+    type: 0
+    number: 0
+    title: "Principale \xE9tiologie de l\u2019h\xE9moptysie"
+    subtitle: DIBI A CHEVAl
+    acronyms:
+    - key: D
+      value: DDB
+    - key: I
+      value: Insufissance ventriculaire gauche
+    - key: B
+      value: BK= tuberculose / Bronchite aigue
+    - key: I
+      value: "Iatrog\xE8ne"
+    - key: A
+      value: "An\xE9vrysme (rupture)"
+    - key: C
+      value: Canser bronchique.
+    - key: H
+      value: "H\xE9mostaque (trouble)"
+    - key: E
+      value: Embolie pulmonaire
+    - key: V
+      value: Valvulopathie (RM..)
+    - key: A
+      value: Aspergillose invasive
+  - sprite: {fileID: 21300000, guid: c94f49e2d84659a43b8da9d2dc07f69c, type: 3}
+    type: 0
+    number: 1
+    title: "Dyspn\xE9e : les 4 premiers examens"
+    subtitle: ECGS
+    acronyms:
+    - key: E
+      value: ECG (IDM...)
+    - key: C
+      value: "Clich\xE9 thoracique (Rx) : pneumothorax"
+    - key: G
+      value: "Gazom\xE9trie"
+    - key: S
+      value: "Sanguin pr\xE9l\xE8vement (an\xE9mie...)"
+  - sprite: {fileID: 21300000, guid: 43ce0901fd8b6b147be62ed31b4eb224, type: 3}
+    type: 0
+    number: 2
+    title: "Toux chroniques \xE0 radio pulmonaire normale"
+    subtitle: MARTIEN
+    acronyms:
+    - key: M
+      value: "M\xE9dicaments : IEC (+++)"
+    - key: A
+      value: "Asthme et hypersensibilit\xE9 bronchique"
+    - key: R
+      value: RGO
+    - key: T
+      value: "Tabac et autres a\xE9rocontaminants"
+    - key: I
+      value: 'Infectieux : post-infectieux'
+    - key: E
+      value: 'Eosinophile : bronchite aigu'
+    - key: "\xE9"
+      value: "\xE9coulement nasal post\xE9rieur"
+  - sprite: {fileID: 21300000, guid: 2e308b0e079d596459b5b3c54df4b9bb, type: 3}
+    type: 0
+    number: 3
+    title: "Sujets \xE0 risque de tuberculose"
+    subtitle: SIDA
+    acronyms:
+    - key: S
+      value: "Social : mauvaises conditions d'hygi\xE8ne"
+    - key: I
+      value: "Immigr\xE9s"
+    - key: D
+      value: "D\xE9ficit immunitaire surtout cellulaire (corticoth\xE9rapie, diab\xE8te,
+        cancer, HIV, insuffisance r\xE9nale chronique...)"
+    - key: A
+      value: Alcool
+  - sprite: {fileID: 21300000, guid: ccbc365555ad1744bb60b5642aca6702, type: 3}
+    type: 0
+    number: 4
+    title: "Bilan pr\xE9-th\xE9rapeutique du tuberculeux"
+    subtitle: OH ! CUTI
+    acronyms:
+    - key: O
+      value: "Ophtalmologique bilan (F.O. + C.V. + vision couleur : \xC9thambutol)"
+    - key: H
+      value: "H\xE9patique bilan (transaminases)"
+    - key: C
+      value: "Cr\xE9atin\xE9mie (fonction r\xE9nale)"
+    - key: U
+      value: "Uric\xE9mie (Piril\xE8ne*)"
+    - key: T
+      value: "Test \xE0 l'INH (de plus en plus exceptionnel)"
+    - key: I
+      value: Ionogramme sanguin
+  - sprite: {fileID: 21300000, guid: cab5ec3a92f2bfc4c91ce9eceb891629, type: 3}
+    type: 0
+    number: 5
+    title: "Posologie et forme gal\xE9nique du traitement antituberculeux"
+    subtitle: 2 PERI puis 4 RI
+    acronyms:
+    - key: 2
+      value: 2 mois
+    - key: P
+      value: Pyrazinamide 400mg
+    - key: E
+      value: Ethambutol 275mg
+    - key: R
+      value: Rifampicine 150 mg
+    - key: I
+      value: Isoniazide 75mg
+    - key: 4
+      value: 4 mois
+    - key: R
+      value: "Rifampicine 300mg g\xE9lule"
+    - key: I
+      value: Isoniazide 150mg
+  - sprite: {fileID: 21300000, guid: d36e4db03aeaf0a45a6d8f0d7aae098a, type: 3}
+    type: 0
+    number: 6
+    title: Principaux effets secondaires de l'INH
+    subtitle: PLAN HGH
+    acronyms:
+    - key: P
+      value: Psychique
+    - key: L
+      value: Lupus induit
+    - key: A
+      value: Agranulocytose
+    - key: N
+      value: "Neuropathie p\xE9riph\xE9rique"
+    - key: H
+      value: "H\xE9pathie"
+    - key: G
+      value: "Gastro-intestinale r\xE9action"
+    - key: H
+      value: "Hypersensibilit\xE9"
+  - sprite: {fileID: 21300000, guid: 0753ee014143085459375cf709856cd7, type: 3}
+    type: 0
+    number: 7
+    title: Surveillance d'un traitement antituberculeux
+    subtitle: NORBERT
+    acronyms:
+    - key: N
+      value: "N\xE9gativation des BK crachats : surveillance tous les 2 mois"
+    - key: O
+      value: Ophtalmo examen (CV-FO-Vision des couleurs), tous les mois pendant le
+        traitement par ETB
+    - key: R
+      value: "R\xE9nale (Ur\xE9e-Cr\xE9at), tous les 2 mois"
+    - key: B
+      value: BHC 2x/semaine pendant 1 mois, puis une fois par mois
+    - key: E
+      value: "Examen clinique tous les 2 mois (\xE9tat g\xE9n\xE9ral, poids, T\xB0,
+        examen neuro)"
+    - key: R
+      value: "Radio \xE0 JO-J15-M1-M2-M3-M4-M6-M9-M12"
+    - key: T
+      value: "Tol\xE9rance, tous les 2 mois (urines fonc\xE9es- arthralgies- lupus...)"
+  - sprite: {fileID: 21300000, guid: 78d3f4eb3a07a9c4490db47caa8e0943, type: 3}
+    type: 0
+    number: 8
+    title: "Signes de gravit\xE9 de l'embolie pulmonaire"
+    subtitle: PISTE D
+    acronyms:
+    - key: P
+      value: "Pression art\xE9rielle systolique inf\xE9rieur \xE0 80 mmHg"
+    - key: I
+      value: Insuffisance ventriculaire droite
+    - key: S
+      value: Syncope au lever
+    - key: T
+      value: "Tachycardie sup\xE9rieur \xE0 120/mn"
+    - key: E
+      value: Etat de choc
+    - key: D
+      value: Douleur coronarienne
+  - sprite: {fileID: 21300000, guid: 7a7947eb7477c1c49befe82aa7087f3d, type: 3}
+    type: 0
+    number: 9
+    title: Risques imputables au tabagisme
+    subtitle: 5C
+    acronyms:
+    - key: C
+      value: "Cardio-vasculaire : carotide (AVC), coronaire (angor, IDM, art\xE9rite...)"
+    - key: C
+      value: 'Chronique bronchite : 70 % des BPCO sont post-tabagique'
+    - key: C
+      value: "Cancer : VADS, vessie, pancr\xE9as, col ut\xE9rin"
+    - key: C
+      value: "Contraception orale+ tabagisme = \u2197 de risque de thromboses"
+    - key: C
+      value: "Cong\xE9nital : si arr\xEAt du tabac absence de grossesse \xE0 risque"
+  - sprite: {fileID: 21300000, guid: d951a5a9cb9559f4aa124bf55d6c42cf, type: 3}
+    type: 1
+    number: 0
+    title: "Signe de l\u2019anemie"
+    subtitle: TAPE le VCD
+    acronyms:
+    - key: T
+      value: Tachycardie
+    - key: A
+      value: "Asth\xE9nie"
+    - key: P
+      value: Paleur
+    - key: E
+      value: "Extr\xE9mit\xE9s froides"
+    - key: V
+      value: Vertige
+    - key: C
+      value: "C\xE9phal\xE9e"
+    - key: D
+      value: "Dyspn\xE9e d\u2019effort puis repos"
+  - sprite: {fileID: 21300000, guid: 12dfc87fa24f3e5459b233b8290e989d, type: 3}
+    type: 1
+    number: 1
+    title: Valeurs normale des plaquettes
+    subtitle: 154
+    acronyms:
+    - key: 154
+      value: 150 - 400 G/l
+  - sprite: {fileID: 21300000, guid: 185f969c0a1af9a46bef77f9070c92e7, type: 3}
+    type: 1
+    number: 2
+    title: "Etiologie des thrombop\xE9nies centrales"
+    subtitle: CHIMA la COMiC
+    acronyms:
+    - key: C
+      value: "Constitutionnel (cong\xE9nital et h\xE9r\xE9ditaire)"
+    - key: H
+      value: "H\xE9mopathie maligne (lymphomes, LAM, etc...)"
+    - key: I
+      value: Infections (rougeole, oreillons, EBC, CMV, parvovirus,etc..)
+    - key: M
+      value: "My\xE9lodysplasie (m\xE9gacaryocytopoiese inefficace)"
+    - key: A
+      value: Aplasie medullaire
+    - key: C
+      value: Carence en folate
+    - key: O
+      value: OH (alcool)
+    - key: M
+      value: "M\xE9dicamenets"
+    - key: C
+      value: Cancer (estomac, sein, prostate)
+  - sprite: {fileID: 21300000, guid: 03c18a51149744840a2d2f3d6b2095a5, type: 3}
+    type: 1
+    number: 3
+    title: "Hyper\xE9osinophilie \xE9tiologies"
+    subtitle: "Derrick et Helmut aiment alerter syst\xE9matiquement les divers CON"
+    acronyms:
+    - key: Derrick
+      value: dermatoses
+    - key: Helmut
+      value: helminthiases
+    - key: Aiment
+      value: "h\xE9mopathies et cancers"
+    - key: Alerter
+      value: allergies
+    - key: "Syst\xE9matiquement"
+      value: "maladie de syst\xE8me"
+    - key: Divers
+      value: "divers :: radioth\xE9rapie, br\xFBlures \xE9tendues, Crohn, RCH, spl\xE9nectomie,
+        Addison , IDM"
+    - key: CON
+      value: "primitifs (leuc\xE9mie \xE0 \xE9osinophiles)"
+  - sprite: {fileID: 21300000, guid: d36617a229995d84194743b0736f9381, type: 3}
+    type: 1
+    number: 4
+    title: "Anomalies de l' h\xE9mogramme dans la leuc\xE9mie my\xE9lo\xEFde chronique"
+    subtitle: Lambert
+    acronyms:
+    - key: L
+      value: 'Leucocytose : hyperleucocytose'
+    - key: A
+      value: "An\xE9mie normochrome normocytaire"
+    - key: M
+      value: "My\xE9l\xE9mie"
+    - key: B
+      value: Basophilie
+    - key: E
+      value: Eosinophilie
+    - key: R
+      value: "R\xE9ticulocytes diminu\xE9s (80 G/L)"
+    - key: T
+      value: "Thrombocytose mod\xE9r\xE9e"
+  - sprite: {fileID: 21300000, guid: 79376351593a34f4796dc92a73d0d547, type: 3}
+    type: 1
+    number: 5
+    title: "M\xE9dicaments induisant un purpura vasculaire immunologique"
+    subtitle: BARBE A PAPAS
+    acronyms:
+    - key: B
+      value: Barbiturique
+    - key: A
+      value: "Antiagr\xE9gants plaquettaires (aspirine\u2026)"
+    - key: P
+      value: "Ph\xE9nyl butazol\xE9s"
+    - key: A
+      value: Avk
+    - key: P
+      value: "Ph\xE9nac\xE9tine"
+    - key: A
+      value: Ampicilline
+    - key: S
+      value: Sulfamide
+  - sprite: {fileID: 21300000, guid: 35b0ba634c204fd43b0f50f93ca4c312, type: 3}
+    type: 1
+    number: 6
+    title: "Etiologies des an\xE9mies h\xE9molytiques acquises"
+    subtitle: T'es Pas Bien PIM ?
+    acronyms:
+    - key: T
+      value: "Toxiques : m\xE9dicaments, champignons, venins"
+    - key: P
+      value: 'Parasitaires : paludisme'
+    - key: B
+      value: "Bact\xE9riennes : clostridium"
+    - key: P
+      value: "Paroxystiques nocturnes ( h\xE9moglobinurie )"
+    - key: I
+      value: "Immunologiques( lupus lymphome . m\xE9dicament immunoallergique )"
+    - key: M
+      value: "M\xE9caniques : proth\xE8ses valvulaires cardiaques, micro-angiopathies
+        )"
+  - sprite: {fileID: 21300000, guid: 3f17c2b6834e9284a9dfbdcadc506ae2, type: 3}
+    type: 1
+    number: 7
+    title: Facteurs de risque de maladie thrombo-embolique
+    subtitle: COAGULATION
+    acronyms:
+    - key: 8
+      value: '8.Facteurs de risque de maladie thrombo-embolique: le GROS TOM VOTAIT
+        pour CATI'
+    - key: GROS
+      value: GROSsesse/post-partum
+    - key: T
+      value: Traitement hormonal substitutif
+    - key: O
+      value: Oestroprogestatif
+    - key: M
+      value: "Maladie in\uFB02ammatoire ( lupus . maladie de behcet..)"
+    - key: V
+      value: Voyage (en avion >5h)
+    - key: O
+      value: "Ob\xE9sit\xE9 (IMC>30)"
+    - key: T
+      value: 'Thrombophilie (acquis: au constitutionnelle)'
+    - key: A
+      value: Age
+    - key: I
+      value: Immobilisation (alitement>3j))
+    - key: T
+      value: Traumatisme (fracture du membre Inf <3 mois)
+    - key: C
+      value: "Chirurgie / pl\xE2tre"
+    - key: A
+      value: Atcd perso et Fan de maladie thromboembolique
+    - key: T
+      value: "Trouble d'h\xE9mostase (g\xE9n\xE9tique)"
+    - key: I
+      value: Insuffisance cardiaque / veineuse
+  - sprite: {fileID: 21300000, guid: 7caef109e9928d94cb37fffba824fcd1, type: 3}
+    type: 1
+    number: 8
+    title: Causes de Thrombopathie
+    subtitle: 3 HYPO ANS
+    acronyms:
+    - key: HYPO
+      value: Thyroidie
+    - key: HYPO
+      value: Folate (vitamine B9)
+    - key: HYPO
+      value: Vitamine B12
+    - key: A
+      value: "Alcoolisme (H\xE9patopathie chronique s\xE9v\xE8re)"
+    - key: N
+      value: "Nouveau-n\xE9"
+    - key: S
+      value: "Syndrome my\xE9lodysplasique"
+  - sprite: {fileID: 21300000, guid: 2987684020b1379449f15f8f85b933e1, type: 3}
+    type: 1
+    number: 9
+    title: "Crit\xE8res de la maladie de Biermer"
+    subtitle: TABATA
+    acronyms:
+    - key: T
+      value: "Tubage gastrique (achlorhydrie histamino r\xE9sistante), absence de
+        F.I r\xE9sistant \xE0 la stimulation par la pentagastrine)"
+    - key: A
+      value: "Auto Ac anti F.I et anti cellule pari\xE9tale"
+    - key: B
+      value: "B12 (baisse du taux s\xE9rique de vitamine."
+    - key: A
+      value: "An\xE9mie macrocytaire normochrome avec m\xE9galoblastes."
+    - key: T
+      value: "Test de shilling anormal, corrig\xE9 par l'ingestion de F.I."
+    - key: A
+      value: "Atrophie gastrique fundique confirm\xE9e histologiquement."
+  - sprite: {fileID: 21300000, guid: debe587b1b812054a9e99ba6b30d4944, type: 3}
+    type: 2
+    number: 0
+    title: "sd n\xE9phrotique"
+    subtitle: HYPO POL
+    acronyms:
+    - key: HYPO
+      value: "Hypoprotid\xE9mie( <60g/l)"
+    - key: HYPO
+      value: "Hypoalbumin\xE9mie(<30g/l)"
+    - key: P
+      value: "Prot\xE9inurie massive(>3g/24h)"
+    - key: O
+      value: "Oed\xE8mes g\xE9n\xE9ralis\xE9s progressifs"
+    - key: L
+      value: "Lip\xE9mie augment\xE9e ( 1 \u2013 15 g/l)"
+  - sprite: {fileID: 21300000, guid: 78a781cb46b6ed24bb5330fa82eb7db3, type: 3}
+    type: 2
+    number: 1
+    title: "Traitement du syndrome n\xE9phrotique"
+    subtitle: RADIS
+    acronyms:
+    - key: R
+      value: "R\xE9gime d\xE9sod\xE9"
+    - key: A
+      value: "Anticoagulant : pr\xE9ventif si albu < 30, curatif si albu < 20"
+    - key: D
+      value: "Diur\xE9tique si \u0153d\xE8me"
+    - key: I
+      value: IEC
+    - key: S
+      value: Statines
+  - sprite: {fileID: 21300000, guid: ce93d3e4f1b8f6d479a532ff2dab0647, type: 3}
+    type: 2
+    number: 2
+    title: Indication de la dialyse urgente dans l'IRA
+    subtitle: "A 17h25 on Surcharge les K7 \xE0 60 Neuro"
+    acronyms:
+    - key: A 17h25
+      value: "Acidose (R\xE9serves alcalines < 10 ; pH < 7,25)"
+    - key: Surcharge
+      value: "Surcharge hydrique s\xE9v\xE8re : OAP, HTA s\xE9v\xE8re"
+    - key: K7
+      value: "Kali\xE9mie > 7 mmol"
+    - key: 6
+      value: "60 Neuro : Ur\xE9e sanguine > 60 mmol/l + Troubles Neuropsychiques"
+  - sprite: {fileID: 21300000, guid: 1c820af11d07be843a5f30a32ec160b9, type: 3}
+    type: 2
+    number: 3
+    title: Contre-indications de la PBR
+    subtitle: PAIN CHAIR
+    acronyms:
+    - key: P
+      value: "P\xE9riarthrite noueuse"
+    - key: I
+      value: Infection
+    - key: N
+      value: "N\xE9oplasie (suspicion de)"
+    - key: C
+      value: Coagulation (trouble)
+    - key: H
+      value: "HTA non contr\xF4l\xE9e"
+    - key: A
+      value: "An\xE9vrysme (micro)"
+    - key: I
+      value: "Insuffisance r\xE9nale avanc\xE9e"
+    - key: R
+      value: Rein unique petit. ectopique ou en malformation
+  - sprite: {fileID: 21300000, guid: 20187c8768e042a4d98651bc5038bbda, type: 3}
+    type: 2
+    number: 4
+    title: "Acidose et alcalose m\xE9tabolique"
+    subtitle: Mais t'as TOUT
+    acronyms:
+    - key: TOUT
+      value: "dans les troubles m\xE9taboliques non compens\xE9s, TOUT est diminu\xE9
+        ou TOUT est augment\xE9. Acide m\xE9tabolique= ph, HCO3- et pa CO2 diminu\xE9s.
+        Alcalose m\xE9tabolique= ph, HCO3- et pa CO2 augment\xE9s"
+  - sprite: {fileID: 21300000, guid: a5c72e8c7d9220d4c81ad801e1c6821f, type: 3}
+    type: 2
+    number: 5
+    title: "m\xE9dicaments n\xE9phrotoxiques"
+    subtitle: "les NAINS du SUD font Tr\xE8s Bien du TRICYCLE"
+    acronyms:
+    - key: NAINS
+      value: AINS
+    - key: SUD
+      value: Sulfamides
+    - key: "Tr\xE8s Bien"
+      value: 'TB: Antituberculeux (Isoniazide/Rifampycine)'
+    - key: TRICYCLE
+      value: "Antid\xE9presseurs Tricycliques"
+  - sprite: {fileID: 21300000, guid: a32d6dac03eaf51409dfa84b43974e5d, type: 3}
+    type: 2
+    number: 6
+    title: "4 urgences \xE0 \xE9liminer devant un syndrome polyuro-polydipsique"
+    subtitle: Les 5H
+    acronyms:
+    - key: H
+      value: "Hyperglyc\xE9mie (Diab\xE8te)"
+    - key: H
+      value: "Hypercalc\xE9mie"
+    - key: H
+      value: Hyperthyroidie
+    - key: H
+      value: HTA maligne
+    - key: H
+      value: "Hypokali\xE9mie"
+  - sprite: {fileID: 21300000, guid: 325dadef5648ecc43af2c52b564c693e, type: 3}
+    type: 2
+    number: 7
+    title: "Dyskali\xE9mie"
+    subtitle: "la Kali\xE9mie va dans les ondes T"
+    acronyms:
+    - key: h
+      value: 'hyper K+ : onde T pointue en haut'
+    - key: h
+      value: 'hypo K+ : onde T plate'
+  - sprite: {fileID: 21300000, guid: 1247a91ead101d64f928a24caa6fc17d, type: 3}
+    type: 2
+    number: 8
+    title: "Syndrome n\xE9phr\xE9tique aigu"
+    subtitle: oh! chop
+    acronyms:
+    - key: O
+      value: Oligurie
+    - key: H
+      value: "H\xE9maturie : Aspect des urines \"bouillon sale\""
+    - key: C
+      value: "Cr\xE9atinine plasmatique 100-150 \xB5mol/l : Fonction r\xE9nale alt\xE9r\xE9e"
+    - key: H
+      value: Hta
+    - key: O
+      value: "Oed\xE8mes explosive"
+    - key: P
+      value: "Prot\xE9urie abondante"
+  - sprite: {fileID: 21300000, guid: db3ccb337361bbd4381e83370ac8cad2, type: 3}
+    type: 2
+    number: 9
+    title: "Etiologies des glomerulon\xE9phrites extra-membraneuses secondaires"
+    subtitle: J'aime les CLITOS
+    acronyms:
+    - key: J'aime
+      value: GEM !
+    - key: C
+      value: Cancer
+    - key: L
+      value: Lupus
+    - key: I
+      value: "Infections (HV, syphilis, l\xE8pre, filariose)"
+    - key: TO
+      value: "Toxiques (sels d'or, D-p\xE9nicillamines, tiopronine, AINS)"
+    - key: S
+      value: "Sarco\xEFdose"
+  - sprite: {fileID: 21300000, guid: cdd5dda2cfee66e41a75ce2856ea2019, type: 3}
+    type: 3
+    number: 0
+    title: "Base analytique de l\u2019ECG"
+    subtitle: VGS
+    acronyms:
+    - key: V
+      value: "Validit\xE9"
+    - key: G
+      value: "Interpr\xE9tation G\xE9n\xE9rale"
+    - key: S
+      value: "Interpr\xE9tation Sp\xE9cifique"
+  - sprite: {fileID: 21300000, guid: 59e85782a13a50345b179fa8409b21b2, type: 3}
+    type: 3
+    number: 1
+    title: "Sus d\xE9calage de S-T"
+    subtitle: PARIS
+    acronyms:
+    - key: P
+      value: "P\xE9ricardite"
+    - key: A
+      value: "An\xE9vrysme du VG"
+    - key: R
+      value: "Repolarisation pr\xE9coce"
+    - key: I
+      value: IDM
+    - key: S
+      value: Spasme coronaire
+  - sprite: {fileID: 21300000, guid: 221130d87119f1440b79935becf3a4a3, type: 3}
+    type: 3
+    number: 2
+    title: Symptomatologie du choc
+    subtitle: FAR
+    acronyms:
+    - key: F
+      value: Fc = 300/nb de Gr carreaux
+    - key: A
+      value: Axe du <3
+    - key: R
+      value: "Rythme:Sinusal et R\xE9gulier"
+  - sprite: {fileID: 21300000, guid: 706621a1cc2ac944f8e1a586ee085f55, type: 3}
+    type: 3
+    number: 3
+    title: les causes de syncopes
+    subtitle: CAM  IN
+    acronyms:
+    - key: 4
+      value: "4.Interpr\xE9tation Sp\xE9cifique de l\u2019ECG: NIKKy\u2019s HaiR"
+    - key: N
+      value: "N\xE9crose"
+    - key: I
+      value: Insuffisance coronaire
+    - key: K
+      value: Conduction trouble
+    - key: K
+      value: "Kali\xE9mie: Hyper et Hypo"
+    - key: H
+      value: Hypertrophie
+    - key: R
+      value: Rythme (trouble de)
+  - sprite: {fileID: 21300000, guid: 6c0e2deb3f939324d8e27796582690a3, type: 3}
+    type: 3
+    number: 4
+    title: Principales complications de l'HTA
+    subtitle: CARDIAC
+    acronyms:
+    - key: C
+      value: Coeur (coronopathie, insuffisance cardiaque)
+    - key: A
+      value: "An\xE9vrisme"
+    - key: R
+      value: "Rein : IRM, n\xE9phroangioscl\xE9rose"
+    - key: D
+      value: Dissection
+    - key: I
+      value: "Iris : r\xE9tinopathie"
+    - key: A
+      value: "Art\xE9rite (membres - carotides - art\xE8res c\xE9r\xE9brales)"
+    - key: C
+      value: "C\xE9r\xE9bral AVC h\xE9morragique + AVC isch\xE9mique, + enc\xE9phalopathie"
+  - sprite: {fileID: 21300000, guid: 8e32f1c3a0b1f8a40a2361e926f08f7d, type: 3}
+    type: 3
+    number: 5
+    title: Etiologies  des insuffisances aortiques
+    subtitle: DRAP DIRECT
+    acronyms:
+    - key: D
+      value: "D\xE9sinsertion d\u2019une proth\xE8se"
+    - key: R
+      value: Rupture du sinus de valsalva
+    - key: A
+      value: "An\xE9vrysme aortique(Maladie annulo ectasiante)"
+    - key: P
+      value: "Prise d\u2019anorexig\xE8nes (fenfluramine..)"
+    - key: D
+      value: Dystrophie, dissection aortique
+    - key: I
+      value: Inflammatoires (syphilis, SPA, Takayasu, Horton, Lupus)
+    - key: R
+      value: RAA
+    - key: E
+      value: Endocardite
+    - key: C
+      value: "Cong\xE9nitale"
+    - key: T
+      value: Traumatique
+  - sprite: {fileID: 21300000, guid: c20590a140b6f73449cbf19a4e84727c, type: 3}
+    type: 3
+    number: 6
+    title: Etiologies de l' insuffisance mitrale
+    subtitle: PREDICTIF
+    acronyms:
+    - key: P
+      value: "Proth\xE8se d\xE9sins\xE9r\xE9e"
+    - key: R
+      value: "Rhumatisme articulaire aig\xFC"
+    - key: E
+      value: Endocardite infectieuse
+    - key: D
+      value: "D\xE9g\xE9n\xE9ratives et dystrophiques"
+    - key: I
+      value: "Isch\xE9miques : rupture, dysfonctionnement d'un pilier"
+    - key: C
+      value: Cardiomyopathie hypertrophique obstructive
+    - key: T
+      value: Traumatismes
+    - key: I
+      value: "Inflammatoire : lupus, scl\xE9rodermie, polyarthrite rhumato\xEFde\u2026"
+    - key: F
+      value: "Fente mitrale ( cong\xE9nitale)"
+  - sprite: {fileID: 21300000, guid: b6b0bf70e274a484eb75ad5725621aa0, type: 3}
+    type: 3
+    number: 7
+    title: "Bilan para clinique minimum \xE0 r\xE9aliser devant une HTA"
+    subtitle: HUGH CICERONE !
+    acronyms:
+    - key: H
+      value: "HLM (H\xE9maturie/Prot\xE9inurie)."
+    - key: U
+      value: "Uric\xE9mie."
+    - key: G
+      value: "Glyc\xE9mie."
+    - key: C
+      value: "Cholest\xE9rol total (et triglyc\xE9ride)."
+    - key: I
+      value: "Ionogramme sanguin : une hypokali\xE9mie fait \xE9voquer une HTA secondaire."
+    - key: C
+      value: "Cr\xE9atinin\xE9mie."
+    - key: E
+      value: ECG.
+    - key: R
+      value: Radiographie du thorax (de face).
+    - key: O
+      value: 'Oeil : fond d''oeil et prise de tension oculaire.'
+    - key: N
+      value: NFS.
+    - key: E
+      value: "Echocardiographie : la mortalit\xE9 est corr\xE9l\xE9e \xE0 deux param\xE8tres
+        : le diam\xE8tre de la paroi ventriculaire gauche et \xE9paisseur septale."
+  - sprite: {fileID: 21300000, guid: 92ec4526ef3f6d945a8791cb93daac2a, type: 3}
+    type: 3
+    number: 8
+    title: "Douleur thoracique : quatre premiers diagnostics \xE0 \xE9voquer"
+    subtitle: PIED A PAN
+    acronyms:
+    - key: P
+      value: "P\xE9ricardite"
+    - key: I
+      value: Infarctus du myocarde
+    - key: E
+      value: Embolie pulmonaire
+    - key: D
+      value: Dissection aortique
+    - key: A
+      value: Arythmie
+    - key: P
+      value: "Pneumopathie(\xE9penchement pleural)"
+    - key: A
+      value: "Abdomen(biliaire, h\xE9patique, pancr\xE9atite)"
+    - key: N
+      value: Neurologique
+  - sprite: {fileID: 21300000, guid: 85dc2a763dd8ece469410ad149ac822e, type: 3}
+    type: 3
+    number: 9
+    title: "Les 4 m\xE9canismes du choc"
+    subtitle: IPAD
+    acronyms:
+    - key: I
+      value: "Image en miroir du sus d\xE9calage=sus d\xE9calage dans le territoire
+        en face par rapport \xE0 l\u2019axe"
+    - key: P
+      value: Permanent
+    - key: A
+      value: Amplitude > 2mm
+    - key: D
+      value: "D\xE9rivation pr\xE9sence du sus d\xE9calage dans plus de deux d\xE9rivations
+        contigu\xEBs"

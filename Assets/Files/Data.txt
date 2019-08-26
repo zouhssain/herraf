@@ -1,0 +1,339 @@
+1/ Pneumo :
+
+1.Principale étiologie de l’hémoptysie : DIBI A CHEVAl
+DDB
+Insufissance ventriculaire gauche
+BK= tuberculose / Bronchite aigue
+Iatrogène
+Anévrysme (rupture)
+Canser bronchique.
+Hémostaque (trouble)
+Embolie pulmonaire
+Valvulopathie (RM..)
+Aspergillose invasive
+
+2.Dyspnée : les 4 premiers examens: ECGS
+ECG (IDM...)
+Cliché thoracique (Rx) : pneumothorax
+Gazométrie 
+Sanguin prélèvement (anémie...)
+
+3.Toux chroniques à radio pulmonaire normale: MARTIEN
+Médicaments : IEC (+++)
+Asthme et hypersensibilité bronchique
+RGO
+Tabac et autres aérocontaminants
+Infectieux : post-infectieux
+Eosinophile : bronchite aigu
+écoulement nasal postérieur
+
+4.Sujets à risque de tuberculose: SIDA
+Social : mauvaises conditions d'hygiène
+Immigrés
+Déficit immunitaire surtout cellulaire (corticothérapie, diabète, cancer, HIV, insuffisance rénale chronique...)
+Alcool
+
+5.Bilan pré-thérapeutique du tuberculeux: OH ! CUTI
+Ophtalmologique bilan (F.O. + C.V. + vision couleur : Éthambutol)
+Hépatique bilan (transaminases)
+Créatinémie (fonction rénale)
+Uricémie (Pirilène*)
+Test à l'INH (de plus en plus exceptionnel)
+Ionogramme sanguin
+
+6.Posologie et forme galénique du traitement antituberculeux: 2 PERI puis 4 RI
+2 mois
+Pyrazinamide 400mg
+Ethambutol 275mg
+Rifampicine 150 mg
+Isoniazide 75mg
+4 mois
+Rifampicine 300mg gélule
+Isoniazide 150mg
+
+7.Principaux effets secondaires de l'INH: PLAN HGH
+Psychique
+Lupus induit
+Agranulocytose
+Neuropathie périphérique
+Hépathie
+Gastro-intestinale réaction
+Hypersensibilité
+
+8.Surveillance d'un traitement antituberculeux: NORBERT
+Négativation des BK crachats : surveillance tous les 2 mois
+Ophtalmo examen (CV-FO-Vision des couleurs), tous les mois pendant le traitement par ETB
+Rénale (Urée-Créat), tous les 2 mois
+BHC 2x/semaine pendant 1 mois, puis une fois par mois
+Examen clinique tous les 2 mois (état général, poids, T°, examen neuro)
+Radio à JO-J15-M1-M2-M3-M4-M6-M9-M12
+Tolérance, tous les 2 mois (urines foncées- arthralgies- lupus...)
+
+9.Signes de gravité de l'embolie pulmonaire: PISTE D
+Pression artérielle systolique inférieur à 80 mmHg
+Insuffisance ventriculaire droite
+Syncope au lever
+Tachycardie supérieur à 120/mn
+Etat de choc
+Douleur coronarienne
+
+10.Risques imputables au tabagisme: 5C
+Cardio-vasculaire : carotide (AVC), coronaire (angor, IDM, artérite...)
+Chronique bronchite : 70 % des BPCO sont post-tabagique
+Cancer : VADS, vessie, pancréas, col utérin
+Contraception orale+ tabagisme = ↗ de risque de thromboses
+Congénital : si arrêt du tabac absence de grossesse à risque
+
+
+2/ Hémato :
+
+1.Signe de l’anemie : TAPE le VCD  
+Tachycardie
+Asthénie
+Paleur
+Extrémités froides
+Vertige
+Céphalée
+Dyspnée d’effort puis repos
+
+2.Valeurs normale des plaquettes:  154
+154 :: 150 - 400 G/l
+
+3.Etiologie des thrombopénies centrales: CHIMA la COMiC
+Constitutionnel (congénital et héréditaire)
+Hémopathie maligne (lymphomes, LAM, etc...)
+Infections (rougeole, oreillons, EBC, CMV, parvovirus,etc..)
+Myélodysplasie (mégacaryocytopoiese inefficace)
+Aplasie medullaire
+Carence en folate
+OH (alcool)
+Médicamenets
+Cancer (estomac, sein, prostate)
+
+4.Hyperéosinophilie étiologies: Derrick et Helmut aiment alerter systématiquement les divers CON
+Derrick :: dermatoses
+Helmut :: helminthiases
+Aiment :: hémopathies et cancers
+Alerter :: allergies
+Systématiquement :: maladie de système
+Divers : divers :: radiothérapie, brûlures étendues, Crohn, RCH, splénectomie, Addison , IDM
+CON :: primitifs (leucémie à éosinophiles)
+
+5.Anomalies de l' hémogramme dans la leucémie myéloïde chronique: Lambert
+Leucocytose : hyperleucocytose
+Anémie normochrome normocytaire
+Myélémie
+Basophilie
+Eosinophilie
+Réticulocytes diminués (80 G/L)
+Thrombocytose modérée
+
+6.Médicaments induisant un purpura vasculaire immunologique: BARBE A PAPAS
+Barbiturique
+Antiagrégants plaquettaires (aspirine…)
+Phényl butazolés
+Avk
+Phénacétine
+Ampicilline
+Sulfamide
+
+
+7.Etiologies des anémies hémolytiques acquises: T'es Pas Bien PIM ?
+Toxiques : médicaments, champignons, venins
+Parasitaires : paludisme
+Bactériennes : clostridium
+Paroxystiques nocturnes ( hémoglobinurie )
+Immunologiques( lupus lymphome . médicament immunoallergique )
+Mécaniques : prothèses valvulaires cardiaques, micro-angiopathies )
+
+
+8.Facteurs de risque de maladie thrombo-embolique: COAGULATION
+8.Facteurs de risque de maladie thrombo-embolique: le GROS TOM VOTAIT pour CATI
+GROS :: GROSsesse/post-partum
+Traitement hormonal substitutif
+Oestroprogestatif
+Maladie inﬂammatoire ( lupus . maladie de behcet..)
+Voyage (en avion >5h)
+Obésité (IMC>30)
+Thrombophilie (acquis: au constitutionnelle)
+Age
+Immobilisation (alitement>3j))
+Traumatisme (fracture du membre Inf <3 mois)
+Chirurgie / plâtre
+Atcd perso et Fan de maladie thromboembolique
+Trouble d'hémostase (génétique)
+Insuffisance cardiaque / veineuse
+
+9.Causes de Thrombopathie: 3 HYPO ANS
+HYPO :: Thyroidie
+HYPO :: Folate (vitamine B9)
+HYPO :: Vitamine B12
+Alcoolisme (Hépatopathie chronique sévère)
+Nouveau-né
+Syndrome myélodysplasique
+
+10.Critères de la maladie de Biermer: TABATA
+Tubage gastrique (achlorhydrie histamino résistante), absence de F.I résistant à la stimulation par la pentagastrine)
+Auto Ac anti F.I et anti cellule pariétale
+B12 (baisse du taux sérique de vitamine.
+Anémie macrocytaire normochrome avec mégaloblastes.
+Test de shilling anormal, corrigé par l'ingestion de F.I.
+Atrophie gastrique fundique confirmée histologiquement.
+
+3/ Nephro :
+
+1.sd néphrotique : HYPO POL
+HYPO :: Hypoprotidémie( <60g/l)
+HYPO :: Hypoalbuminémie(<30g/l)
+Protéinurie massive(>3g/24h)
+Oedèmes généralisés progressifs
+Lipémie augmentée ( 1 – 15 g/l)
+
+2.Traitement du syndrome néphrotique: RADIS
+Régime désodé
+Anticoagulant : préventif si albu < 30, curatif si albu < 20
+Diurétique si œdème
+IEC
+Statines
+
+3.Indication de la dialyse urgente dans l'IRA: A 17h25 on Surcharge les K7 à 60 Neuro
+A 17h25 :: Acidose (Réserves alcalines < 10 ; pH < 7,25)
+Surcharge :: Surcharge hydrique sévère : OAP, HTA sévère
+K7 :: Kaliémie > 7 mmol
+60 Neuro : Urée sanguine > 60 mmol/l + Troubles Neuropsychiques
+
+4.Contre-indications de la PBR: PAIN CHAIR
+Périarthrite noueuse
+Infection
+Néoplasie (suspicion de)
+Coagulation (trouble)
+HTA non contrôlée
+Anévrysme (micro)
+Insuffisance rénale avancée
+Rein unique petit. ectopique ou en malformation
+
+5.Acidose et alcalose métabolique: Mais t'as TOUT
+TOUT :: dans les troubles métaboliques non compensés, TOUT est diminué ou TOUT est augmenté. Acide métabolique= ph, HCO3- et pa CO2 diminués. Alcalose métabolique= ph, HCO3- et pa CO2 augmentés
+
+6.médicaments néphrotoxiques: les NAINS du SUD font Très Bien du TRICYCLE
+NAINS:: AINS
+SUD:: Sulfamides
+Très Bien:: TB: Antituberculeux (Isoniazide/Rifampycine)
+TRICYCLE:: Antidépresseurs Tricycliques
+
+7.4 urgences à éliminer devant un syndrome polyuro-polydipsique: Les 5H
+Hyperglycémie (Diabète)
+Hypercalcémie
+Hyperthyroidie
+HTA maligne
+Hypokaliémie
+
+8.Dyskaliémie: la Kaliémie va dans les ondes T
+hyper K+ : onde T pointue en haut
+hypo K+ : onde T plate
+
+9.Syndrome néphrétique aigu: oh! chop
+Oligurie
+Hématurie : Aspect des urines "bouillon sale"
+Créatinine plasmatique 100-150 µmol/l : Fonction rénale altérée
+Hta
+Oedèmes explosive
+Protéurie abondante
+
+10.Etiologies des glomerulonéphrites extra-membraneuses secondaires: J'aime les CLITOS
+J'aime :: GEM !
+Cancer
+Lupus
+Infections (HV, syphilis, lèpre, filariose)
+TO :: Toxiques (sels d'or, D-pénicillamines, tiopronine, AINS)
+Sarcoïdose
+
+4/ Cardio :
+
+1.Base analytique de l’ECG : VGS
+Validité
+G :: Interprétation Générale
+S :: Interprétation Spécifique
+
+2.Sus décalage de S-T : PARIS
+Péricardite
+Anévrysme du VG
+Repolarisation précoce
+IDM
+Spasme coronaire
+
+3.Symptomatologie du choc: FAR
+Fc = 300/nb de Gr carreaux
+Axe du <3
+Rythme:Sinusal et Régulier
+
+4.les causes de syncopes : CAM  IN
+4.Interprétation Spécifique de l’ECG: NIKKy’s HaiR
+Nécrose
+Insuffisance coronaire
+K :: Conduction trouble
+Kaliémie: Hyper et Hypo
+Hypertrophie
+Rythme (trouble de)
+
+5.Principales complications de l'HTA: CARDIAC
+Coeur (coronopathie, insuffisance cardiaque)
+Anévrisme
+Rein : IRM, néphroangiosclérose
+Dissection
+Iris : rétinopathie
+Artérite (membres - carotides - artères cérébrales)
+Cérébral AVC hémorragique + AVC ischémique, + encéphalopathie
+
+6.Etiologies  des insuffisances aortiques: DRAP DIRECT
+Désinsertion d’une prothèse
+Rupture du sinus de valsalva
+Anévrysme aortique(Maladie annulo ectasiante)
+Prise d’anorexigènes (fenfluramine..)
+Dystrophie, dissection aortique
+Inflammatoires (syphilis, SPA, Takayasu, Horton, Lupus)
+RAA
+Endocardite
+Congénitale
+Traumatique
+
+7.Etiologies de l' insuffisance mitrale: PREDICTIF
+Prothèse désinsérée
+Rhumatisme articulaire aigü
+Endocardite infectieuse
+Dégénératives et dystrophiques
+Ischémiques : rupture, dysfonctionnement d'un pilier
+Cardiomyopathie hypertrophique obstructive
+Traumatismes
+Inflammatoire : lupus, sclérodermie, polyarthrite rhumatoïde…
+Fente mitrale ( congénitale)
+
+8.Bilan para clinique minimum à réaliser devant une HTA: HUGH CICERONE !
+HLM (Hématurie/Protéinurie).
+Uricémie.
+Glycémie.
+Cholestérol total (et triglycéride).
+Ionogramme sanguin : une hypokaliémie fait évoquer une HTA secondaire.
+Créatininémie.
+ECG.
+Radiographie du thorax (de face).
+Oeil : fond d'oeil et prise de tension oculaire.
+NFS.
+Echocardiographie : la mortalité est corrélée à deux paramètres : le diamètre de la paroi ventriculaire gauche et épaisseur septale.
+
+9.Douleur thoracique : quatre premiers diagnostics à évoquer: PIED A PAN
+Péricardite
+Infarctus du myocarde
+Embolie pulmonaire
+Dissection aortique
+Arythmie
+Pneumopathie(épenchement pleural)
+Abdomen(biliaire, hépatique, pancréatite)
+Neurologique
+
+10.Les 4 mécanismes du choc : IPAD
+Image en miroir du sus décalage=sus décalage dans le territoire en face par rapport à l’axe
+Permanent
+Amplitude > 2mm
+Dérivation présence du sus décalage dans plus de deux dérivations contiguës
+
